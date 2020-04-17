@@ -1,2 +1,2 @@
 # fewd-techdegree-project-1
-My first Front End Web Development Techdegree project
+My first project for the Front End Web Development Techdegree
